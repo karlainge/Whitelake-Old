@@ -1,0 +1,322 @@
+body {
+    margin: 0;
+}
+
+#nav{
+    margin-left:10px;
+    padding:1px 5px;
+    height:20px;
+}
+
+#ulmenu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 240px;
+    background-color: #f1f1f1;
+    position: absolute;
+    height: 360px;
+    overflow: auto;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 3px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+h2{
+	color: black;
+	font-family:"Clibri";
+	font-size:25px;
+	margin-left: 300px;
+	width:500px;
+}
+
+h3{
+	color: black;
+	font-family:"Clibri";
+	font-size:20px;
+	margin-left: 300px;
+	width:500px;
+}
+
+#Whitelakebackground{
+	background-color: #CCCCFF;
+}
+#Whitelake{
+    color: Blue;
+    font-family:"Clibri";
+    font-size:40px;
+}
+#Introduction{
+	color: green;
+	font-family:"Clibri";
+	text-indent: 270px;
+}
+#IndexIntroduction{
+    font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px;
+}
+#picture_home1{
+	position: relative;
+	float: right;
+	top: 0px;
+	bottom: 0px;
+	margin-right: 50px;
+}
+#picture_home2{
+	margin-left: 300px;
+}
+
+#Univeristybackground{
+	background-color: #33CC99;/*This is the background color where using the # as the start of the reference point. 
+								Also placing the word color in american format also helps the color to show
+                                the website*/
+}
+#Universitytext{
+	font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px;
+}
+
+#Reception{
+	margin-left: 300px;
+}
+#course{
+    background-color:#CCFFFF; /*This is the background color where using the # as the start of the reference point. 
+								Also placing the word color in american format also helps the color to show
+                                the website*/
+	}
+#CourseIntroduction{
+	text-indent:220px;
+	}
+#Coursepicture{
+	position: relative;
+	float: right;
+	top: 0px;
+	bottom: 40px;
+	margin-right: 150px;
+    }	
+#Coursetext{
+	font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px;
+	}
+#EntryCiteria{
+	font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px;
+    }
+#EntryIntroduction{
+	font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px;
+    }
+#entrygrades{
+    font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px;
+    }
+#portfolio{
+	font-weight: bold;
+}
+#interview{
+	font-weight: bold;
+}
+#English{
+	font-weight: bold;
+	}
+#Computertext{
+	font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px;
+}
+#Form{
+	font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px
+}
+#button{
+	font-family:"Clibri";
+    font-size: 16px;
+	margin-left: 300px;
+	float: left;
+}
+
+#history{
+    background-color: #999999; /*This is the background color where using the # as the start of the reference point. 
+								Also placing the word color in american format also helps the color to show
+                                the website*/
+	}
+#IronAge{
+	font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px;
+	}
+#RomanPeriod{
+    font-family:"Clibri";
+    font-size: 24px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px;;
+	  }
+#Roman{
+	font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px;
+}
+#EarlyMediveal{
+	font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px;
+}
+#Mediveal{
+	font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px;
+}
+#Post-Medieval{
+    font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px;
+}
+#palace{
+    font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px;
+}
+#IndustrialModern{
+	font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px;
+}
+
+#Placebackground{
+	background-color: #CCCC99; /*This is the background color where using the # as the start of the reference point. 
+								Also placing the word color in american format also helps the color to show
+                                the website*/
+}
+#Placestoshop{
+	position: relative;
+	float: right;
+	top: 0px;
+	bottom: 40px;
+	margin-right: 150px;
+    }
+#placetext{
+	font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 300px;
+	width:500px;
+    }
+
+#eatanddrink{
+    background-color:#CCCCCC/*This is the background color where using the # as the start of the reference point. 
+							  Also placing the word color in american format also helps the color to show
+                              the website*/
+    }
+
+#culturebackground{
+	background-color: #999999;/*This is the background color where using the # as the start of the reference point. 
+								Also placing the word color in american format also helps the color to show
+                                the website*/
+}
+
+#Healthcare{
+	background-color: #99CCFF;
+}
+#postingservice{
+	background-color: #CCCCFF;/*This is the background color where using the # as the start of the reference point. 
+								Also placing the word color in american format also helps the color to show
+                                the website*/
+}
+#accomdations{
+    background-color: #99CCFF; /*This is the background color where using the # as the start of the reference point. 
+								Also placing the word color in american format also helps the color to show
+                                the website*/
+	}
+#Accommodationspicture1{
+	position: relative;
+	float: right;
+	top: 0px;
+	bottom: 40px;
+	margin-right: 150px;
+}
+#Accommodationtext{
+	font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 400px;
+	width:700px;
+}
+
+#travelling{
+	background-color: #CCCCFF;
+}
+
+#contactus{
+	background-color: #99CCFF;
+}
+#reference{
+   background-color: #99CCFF /*This is the background color where using the # as the start of the reference point. 
+								Also placing the word color in american format also helps the color to show
+                                the website*/
+	}
+#Reference{
+  color: yellow;
+  font-family:"Clibri";
+  font-size:40px;
+}
+
+#ReferenceList{
+    font-family:"Clibri";
+    font-size: 16px;
+    text-align: justify;
+	margin-left: 400px;
+	width:700px;
+}
+
